@@ -1,0 +1,4 @@
+
+En la Unidad 2, abordamos varios conceptos fundamentales para comenzar, como las variables, así como los tipos de datos y operadores. También exploramos las estructuras que deben tener los algoritmos para la toma de decisiones, y examinamos las estructuras de control de bucles.
+
+Durante esta unidad, experimenté algunas dificultades al realizar la tarea extraordinaria, ya que no logré comprender completamente el orden del código y las funciones que se llevaban a cabo.
